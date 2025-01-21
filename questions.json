@@ -1,0 +1,85 @@
+
+{
+    "questions": [
+      {
+        "question": "Python unterstützt Mehrfachvererbung.",
+        "correct_answer": true
+      },
+      {
+        "question": "In Python beginnen alle Variablen mit einem Dollarzeichen ($).",
+        "correct_answer": false
+      },
+      {
+        "question": "Python verwendet Einrückungen zur Strukturierung von Codeblöcken anstelle von geschweiften Klammern.",
+        "correct_answer": true
+      },
+      {
+        "question": "Die Funktion len() gibt die Anzahl der Bytes in einer Datei zurück.",
+        "correct_answer": false
+      },
+      {
+        "question": "Python ist case-sensitive, das heißt, variable und Variable sind unterschiedliche Variablen.",
+        "correct_answer": true
+      },
+      {
+        "question": "Mit break kann eine Schleife in Python vorzeitig beendet werden.",
+        "correct_answer": true
+      },
+      {
+        "question": "In Python können Tupel nach ihrer Erstellung nicht mehr geändert werden.",
+        "correct_answer": true
+      },
+      {
+        "question": "Die Syntax a == b überprüft, ob a und b denselben Speicherort belegen.",
+        "correct_answer": false
+      },
+      {
+        "question": "In Python können Listen sowohl Zahlen als auch Zeichenketten gleichzeitig enthalten.",
+        "correct_answer": true
+      },
+      {
+        "question": "Die Methode append() fügt ein Element am Anfang einer Liste hinzu.",
+        "correct_answer": false
+      },
+      {
+        "question": "In Python sind Strings unveränderlich.",
+        "correct_answer": true
+      },
+      {
+        "question": "Der Ausdruck 5 // 2 gibt als Ergebnis 2.5 zurück.",
+        "correct_answer": false
+      },
+      {
+        "question": "In Python kann ein for-Schleifeniterator eine Zeichenkette als Eingabe akzeptieren.",
+        "correct_answer": true
+      },
+      {
+        "question": "Der Operator is vergleicht die Identität (den Speicherort) von zwei Objekten.",
+        "correct_answer": true
+      },
+      {
+        "question": "Python unterstützt die Verwendung von negativen Indizes in Listen.",
+        "correct_answer": true
+      },
+      {
+        "question": "Die Funktion open() gibt standardmäßig eine Datei im Lese- und Schreibmodus zurück.",
+        "correct_answer": false
+      },
+      {
+        "question": "In Python werden alle Funktionen als Objekte behandelt.",
+        "correct_answer": true
+      },
+      {
+        "question": "Der Operator == überprüft, ob zwei Objekte denselben Speicherort belegen.",
+        "correct_answer": false
+      },
+      {
+        "question": "Ein KeyError tritt auf, wenn ein Schlüssel in einem Wörterbuch nicht gefunden wird.",
+        "correct_answer": true
+      },
+      {
+        "question": "In Python kann eine Variable ohne vorherige Deklaration verwendet werden.",
+        "correct_answer": true
+      }
+    ]
+  }
